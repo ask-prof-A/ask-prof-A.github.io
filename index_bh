@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EDZ2KS39KJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EDZ2KS39KJ');
+</script>
+
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Bhavana Dalvi Mishra">
+  <meta name="keywords" content="Bhavana, Dalvi, Mishra, AI2, Aristo">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bhavana Dalvi Mishra - Allen Institute for AI</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/ai2_website_top.png">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+
+            <table>
+              <tr> <td>
+                      <img src="./bhavana.jpeg" width="200" height="100">
+<!--<img src="./adityam_pic.png" width="186" height="192">-->
+              </td> <td>
+                <h1 class="title is-2 publication-title">&nbsp &nbsp &nbsp <font color=#008CBA>Bhavana Dalvi Mishra</font></h1>
+              <h2><b>Lead Research Scientist</b> <br>
+      Allen Institute for AI <br>
+      Seattle, WA, USA<br>
+              <br><b>Email:</b> bhavanad AT allenai DOT org </h2>
+              <br>
+              </td>
+		<td> </td> 
+		</tr>
+              </table>
+          </h3>
+
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. 
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2310.10134.pdf"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>  -->
+              <!-- <span class="link-block">
+                <a href=""
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+              <!-- Video Link. -->
+               <span class="link-block">
+                <a href="mailto:bhavanad@allenai.org"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-envelope"></i>
+                  </span>
+                  <span>Contact</span>
+                </a>
+              </span> 
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://scholar.google.com/citations?user=9e0uFr4AAAAJ"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fa fa-book"></i>
+                  </span>
+                  <span>Google Scholar</span>
+                  </a>
+              </span>
+              <!-- Dataset Link. -->
+              <span class="link-block">
+                <a href="https://www.semanticscholar.org/author/Bhavana-Dalvi/40135250"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="far fa-images"></i>
+                  </span>
+                  <span>Semantic Scholar</span>
+                  </a> 
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <video id="teaser" autoplay muted loop playsinline height="100%">
+        <source src="./static/images/clin-with-credits.mp4"
+                type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        Using a dynamic, persistent memory, CLIN adapts rapidly over multiple trials.
+      </h2>
+    </div>
+  </div>
+</section>
+-->
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- About Me. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h3 class="title is-4"><font color=#008CBA>About Me</font></h3>
+        <div class="content has-text-justified">
+          <p>
+I am a Lead Research Scientist at AI2. My research interests are in the area of <font color=#008CBA>Generative AI, Interactive reasoning and Scientific Discovery</font>. I received my Ph.D. in Computer Science from the Carnegie Mellon University in 2015, advised by <a href="https://www.cs.cmu.edu/~wcohen/">Prof. William Cohen</a> and <a href="https://www.cs.cmu.edu/~callan/">Prof. Jamie Callan</a>. I completed Masters in Computer Science from the Indian Institute of Technology, Bombay in 2007. Prior to PhD, I worked at Google R&D Bangalore for two years. Besides research, I love hiking, meditation, and music.
+            <br>
+            <br>
+
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- About Me. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h3 class="title is-4"><font color=#008CBA>Selected Publications</font></h3>
+        <div class="content has-text-justified">
+          <p>
+The complete list of publications can be seen from my <a href="https://scholar.google.com/citations?user=9e0uFr4AAAAJ">Google Scholar</a> page.
+<br>
+
+                * indicates equal contribution<br>
+    <h3>Generative AI agents for Discovery</h3>
+   
+    <ul>
+       <li><b>HypER: Literature-grounded Hypothesis Generation and Distillation with Provenance  </b>
+                <a href="https://arxiv.org/pdf/2506.12937">[Paper] </a>
+                <br> Rosni Vasu, Chandrayee Basu, <u>Bhavana Dalvi Mishra</u>, Cristina Sarasua, Peter Clark, Abraham Bernstein<br>
+		<b>EMNLP 2025</b>.</li>
+       
+       <li><b>DiscoveryBench: Towards Data-Driven Discovery with Large Language Models  </b>
+                <a href="https://arxiv.org/pdf/2407.01725">[Paper] </a>
+                <a href="https://github.com/allenai/discoverybench">[Website] </a>
+                <br> Bodhisattwa Prasad Majumder*, Harshit Surana*, Dhruv Agarwal*, <u>Bhavana Dalvi Mishra*</u>, Abhijeetsingh Meena, Aryan Prakhar, Tirth Vora, Tushar Khot, Ashish Sabharwal, Peter Clark<br>
+		<b>ICLR 2025</b>.</li>
+       
+       <li><b>CodeScientist:
+End-to-End Semi-Automated Scientific Discovery with Code-based Experimentation </b> 
+                <a href="https://arxiv.org/pdf/2503.22708">[Paper] </a>
+                <a href="https://github.com/allenai/codescientist">[Website] </a>
+                <br> Peter Jansen, Oyvind Tafjord, Marissa Radensky, Pao Siangliulue, Tom Hope, <u>Bhavana Dalvi Mishra</u>, Bodhisattwa Majumder, Daniel S. Weld, Peter Clark<br>
+                <b> ACL 2025 (Findings)</b>.</li>
+       
+       <li><b>IdeaSynth: Iterative Research Idea Development Through Evolving and Composing Idea Facets with Literature-Grounded Feedback  </b>
+                <a href="https://arxiv.org/abs/2410.04025">[Paper] </a>
+                <br> Kevin Pu, K. J. Kevin Feng, Tovi Grossman, Tom Hope, <u>Bhavana Dalvi Mishra*</u>, Matt Latzke, Jonathan Bragg, Joseph Chee Chang, Pao Siangliulue<br>
+		<b>CHI 2025</b>.</li>
+       
+        <li> <b> Proceedings of the First Workshop on AI and Scientific Discovery: Directions and Opportunities (AISD) </b>
+                <a href="https://ai-and-scientific-discovery.github.io/">[Website] </a>
+                <br>Peter Jansen, <u>Bhavana Dalvi Mishra</u>, Harsh Trivedi, Bodhisattwa Majumder, Tom Hope,
+Tushar Khot, Doug Downey, Eric Horvitz <br>
+		<b>NAACL 2025</b>. </li>
+	<li><b>Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision,  </b>
+                <a href="https://arxiv.org/pdf/2502.15147">[Paper] </a>
+                <br> Zhouhang Xie, Tushar Khot, <u>Bhavana Dalvi Mishra</u>, Harshit Surana, Julian McAuley, Peter Clark, Bodhisattwa Majumder<br>
+                <b>NAACL 2025</b>.</li>
+          
+       <li><b>DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents  </b>
+                <a href="https://arxiv.org/abs/2406.06769">[Paper] </a>
+                <a href="https://github.com/allenai/discoveryworld">[Website] </a>
+                <br>Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, <u>Bhavana Dalvi Mishra</u>,
+Bodhisattwa Prasad Majumder, Oyvind Tafjord, Peter Clark <br>
+                <b>NeurIPS 2024 (Benchmark Track, Spotlight)</b>.</li>
+    </ul>
+    <h3>Continual Learning with Interaction</h3>
+    <ul>
+       <li><b>Skill Set Optimization: Reinforcing Language Model Behavior via Transferable Skills</b>
+                <a href="https://arxiv.org/abs/2402.03244">[Paper] </a>
+                <a href="https://allenai.github.io/sso/">[Website] </a>
+                <br>Kolby Nottingham, Bodhisattwa Prasad Majumder*, <u>Bhavana Dalvi Mishra*</u>,  Sameer Singh, Peter Clark, Roy Fox<br>
+                <b>ICML 2024</b>.</li>
+       <li><b>CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization</b>
+                <a href="https://arxiv.org/abs/2310.10134">[Paper] </a>
+                <a href="https://allenai.github.io/clin/">[Website] </a>
+                <br>Bodhisattwa Prasad Majumder, <u>Bhavana Dalvi Mishra</u>, Peter Jansen, Oyvind Tafjord, Niket Tandon, Li Zhang, Chris Callison-Burch, Peter Clark<br>
+                <b>COLM 2024</b>.</li>
+     <!--
+       <li><b>Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement</b>
+                <a href="https://arxiv.org/abs/2204.13074">[Paper] </a>
+                <a href="https://allenai.org/data/teachme">[Dataset] </a>
+                <a href="https://blog.allenai.org/towards-teachable-reasoning-systems-dd16659fd9f8">[Blog] </a>
+                <br><u>Bhavana Dalvi Mishra</u>, Oyvind Tafjord, Peter Clark<br>
+                EMNLP 2022.</li>
+-->
+    </ul>
+
+ <h3>Explainable Teachable Reasoning</h3>
+    <ul>
+
+       <li><b>From Models to Microtheories: Distilling a Model's Topical Knowledge for Grounded Question Answering</b>
+                <a href="https://arxiv.org/pdf/2412.17701?">[Paper] </a>
+                <br>Nathaniel Weir, <u>Bhavana Dalvi Mishra</u>, Orion Weller, Oyvind Tafjord, Sam Hornstein,
+Alexander Sabol, Peter Jansen, Benjamin Van Durme, Peter Clark<br>
+                ICLR 2025.</li>
+       
+       <li><b>Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic</b>
+                <a href="https://arxiv.org/pdf/2402.14798">[Paper] </a>
+                <br>Nathaniel Weir, Kate Sanders, Orion Weller, Shreya Sharma, Dongwei Jiang, Zhengping Zhang, <u>Bhavana Dalvi Mishra</u>, Oyvind Tafjord, Peter Jansen, Peter Clark, Benjamin Van Durme<br>
+                EMNLP 2024.</li>
+       
+        <li> <b> Proceedings of the 2nd Workshop on Natural Language
+Reasoning and Structured Explanations (NLRSE) </b>
+                <a href="https://nl-reasoning-workshop.github.io/">[Website] </a>
+                <br>Greg Durrett, <u>Bhavana Dalvi Mishra</u>, Peter Jansen, Danilo Ribeiro, Lionel Wong, Xi Ye, Wenting Zhao, Ben Lipkin <br>
+		ACL 2024. </li>
+
+        <li> <b> Proceedings of the 1st Workshop on Natural Language Reasoning and Structured Explanations (NLRSE)</b>
+                <a href="https://nl-reasoning-workshop.github.io/">[Website] </a>
+                <br><u>Bhavana Dalvi Mishra</u>, Greg Durrett, Peter Jansen, Danilo Neves Ribeiro, Jason Wei<br>
+		ACL 2023. </li>
+
+       <li><b>Towards Teachable Reasoning Systems: Using a Dynamic Memory of User Feedback for Continual System Improvement</b>
+                <a href="https://arxiv.org/abs/2204.13074">[Paper] </a>
+                <a href="https://allenai.org/data/teachme">[Dataset] </a>
+                <a href="https://blog.allenai.org/towards-teachable-reasoning-systems-dd16659fd9f8">[Blog] </a>
+                <br><u>Bhavana Dalvi Mishra</u>, Oyvind Tafjord, Peter Clark<br>
+                EMNLP 2022.</li>
+       
+	<li><b>Entailer: Answering Questions with Faithful and Truthful Chains of Reasoning</b>
+                <br><a href="https://arxiv.org/abs/2210.12217">[Paper] </a>
+                <a href="https://allenai.org/data/entailer">[Data] </a>
+                <a href="https://github.com/allenai/entailment_bank/blob/main/entailer.md">[Code] </a>
+                <a href="https://blog.allenai.org/towards-teachable-reasoning-systems-dd16659fd9f8">[Blog] </a>
+                <br>Oyvind Tafjord, <u>Bhavana Dalvi Mishra</u>, Peter Clark<br>
+                EMNLP 2022.</li>
+
+	<li><b>Explaining Answers with Entailment Trees</b>
+                <a href="https://arxiv.org/abs/2210.12217">[Paper] </a>
+                <a href="https://allenai.org/data/entailmentbank">[Data] </a>
+                <a href="https://github.com/allenai/entailment_bank">[Code] </a>
+                <br><u>Bhavana Dalvi Mishra*</u>, Peter Jansen*, Oyvind Tafjord, Zhengnan Xie, Hannah Smith, Leighanna Pipatanangkura, Peter Clark<br>
+		EMNLP 2021.</li>
+
+
+	<li><b>ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language</b>
+                <a href="https://arxiv.org/abs/2012.13048">[Paper] </a>
+                <a href="https://allenai.org/data/proofwriter">[Data] </a>
+                <a href="https://proofwriter.apps.allenai.org/">[Demo] </a>
+                <br>Oyvind Tafjord, <u>Bhavana Dalvi Mishra</u>, Peter Clark<br>
+                Findings of ACL 2021.</li>
+
+    </ul>
+
+    <h3>Mental Models behind Language Models</h3>
+    <ul>
+
+       <li><b>Do language models have coherent mental models of everyday things?</b>
+                <a href="https://arxiv.org/abs/2212.10029">[Paper] </a>
+                <a href="https://github.com/allenai/everyday-things">[Website] </a>
+                <a href="https://blog.allenai.org/towards-teachable-reasoning-systems-dd16659fd9f8">[Blog] </a>
+                <br>Yuling Gu, <u>Bhavana Dalvi Mishra</u>, Peter Clark<br>
+                ACL 2023.</li>
+
+       <li><b>Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE</b>
+                <a href="https://arxiv.org/abs/2210.16407">[Paper] </a>
+                <a href="https://blog.allenai.org/understanding-figurative-language-with-ai-models-bb0aefb9e5ff">[Blog] </a>
+                <br>Yuling Gu, Yao Fu, Valentina Pyatkin, Ian Magnusson, <u>Bhavana Dalvi Mishra</u>, Peter Clark<br>
+                The Third Workshop on Figurative Language Processing at EMNLP 2022.</li>
+
+       <li><b>DREAM: Improving Situational QA by First Elaborating the Situation</b>
+                <a href="https://arxiv.org/abs/2112.08656">[Paper] </a>
+                <a href="https://github.com/allenai/dream">[Website] </a>
+                <a href="https://blog.allenai.org/understanding-figurative-language-with-ai-models-bb0aefb9e5ff">[Blog] </a>
+                <br>Yuling Gu, <u>Bhavana Dalvi Mishra</u>, Peter Clark<br>
+                NAACL 2022.</li>
+    </ul>
+   
+
+<h3>Procedural Reasoning</h3>
+    <ul>
+
+       <li><b>A Dataset for Tracking Entities in Open Domain Procedural Text</b>
+                <a href="https://arxiv.org/abs/2011.08092">[Paper] </a>
+                <a href="https://allenai.org/data/openpi">[Data] </a>
+                <a href="https://github.com/allenai/openpi-dataset/">[Code] </a>
+                <br>Niket Tandon, Keisuke Sakaguchi, <u>Bhavana Dalvi Mishra</u>, Dheeraj Rajagopal, Peter Clark, Michal Guerquin, Kyle Richardson, Eduard Hovy<br>
+                EMNLP 2020.</li>
+
+       <li><b>Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text</b>
+                <a href="https://aclanthology.org/D19-1457.pdf">[Paper] </a>
+                <br><u>Bhavania Dalvi Mishra*</u>, Niket Tandon*, Antoine Bosselut, Wen-tau Yih, Peter Clark<br>
+                EMNLP 2020.</li>
+
+       <li><b>WIQA: A dataset for "What if..." reasoning over procedural text</b>
+                <a href="https://arxiv.org/abs/2011.08092">[Paper] </a>
+                <a href="https://allenai.org/data/openpi">[Data] </a>
+                <a href="https://github.com/allenai/openpi-dataset/">[Code] </a>
+                <br>Niket Tandon*, <u>Bhavana Dalvi Mishra*</u>, Keisuke Sakaguchi, Antoine Bosselut, Peter Clark<br>
+                EMNLP 2019.</li>
+
+       <li><b>Reasoning about Actions and State Changes by Injecting Commonsense Knowledge</b>
+                <a href="https://arxiv.org/abs/1808.10012">[Paper] </a>
+                <a href="https://allenai.org/data/openpi">[Data] </a>
+                <a href="https://github.com/allenai/openpi-dataset/">[Code] </a>
+                <br>Niket Tandon*, <u>Bhavana Dalvi Mishra*</u>, Joel Grus, Wen-tau Yih, Antoine Bosselut, Peter Clark<br>
+                EMNLP 2018.</li>
+
+    </ul>
+
+        </div>
+      </div>
+    </div>
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="publication-links">
+      <!-- <div class="column is-8"> -->
+        <span class="link-block">
+          <img src="./static/images/ai2-logo-header.png" display="block" style="max-width: 20%; align-items: center; margin: auto;">
+        </span>
+        <br>
+        <span class="link-block">
+          <img src="./static/images/aristo-logo-header.png" display="block" style="max-width: 15%; align-items: center; margin: auto;">
+        </span>
+      <br>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp The website template is borrowed from <a href="https://nerfies.github.io/">here</a>.</center></p>
+        </div>
+      <!-- </div> -->
+  </div>
+</footer>
+
+</body>
+</html>
